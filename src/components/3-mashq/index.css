@@ -1,0 +1,38 @@
+div {
+  margin-top: 100px;
+}
+.red {
+  background-color: red;
+  width: 100px;
+  text-align: center;
+  height: 50px;
+  padding-top: 10px;
+}
+.yashil {
+  background-color: green;
+  width: 100px;
+  text-align: center;
+  height: 50px;
+  padding-top: 10px;
+}
+.qizil {
+  background-color: maroon;
+  width: 100px;
+  text-align: center;
+  height: 50px;
+  padding-top: 10px;
+}
+.kok {
+  background-color: blue;
+  width: 100px;
+  text-align: center;
+  height: 50px;
+  padding-top: 10px;
+}
+.sariq {
+  background-color: yellow;
+  width: 100px;
+  text-align: center;
+  height: 50px;
+  padding-top: 10px;
+}

@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+ p{
+   margin-top:25px;
+ }
+}
+div{
+   margin-top: 20px;
+}
